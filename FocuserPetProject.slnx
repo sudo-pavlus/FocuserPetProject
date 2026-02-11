@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="FocuserPet/FocuserPet.vcxproj" />
+  <Project Path="FocuserPet/FocuserPet.vcxproj" Id="971e79f4-2fd5-4b38-85f1-4989f029deed" />
 </Solution>

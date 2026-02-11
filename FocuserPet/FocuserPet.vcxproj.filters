@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="assets">
+      <UniqueIdentifier>{07f8d4f4-d905-41c0-bd59-cefcc3022630}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Resource.h">
@@ -38,6 +41,9 @@
     </Image>
     <Image Include="FocuserPet.ico">
       <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\sprites\Test_girl\Idle.png">
+      <Filter>assets</Filter>
     </Image>
   </ItemGroup>
 </Project>

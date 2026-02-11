@@ -143,6 +143,7 @@
     <ResourceCompile Include="FocuserPet.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="assets\sprites\Test_girl\Idle.png" />
     <Image Include="FocuserPet.ico" />
     <Image Include="small.ico" />
   </ItemGroup>
