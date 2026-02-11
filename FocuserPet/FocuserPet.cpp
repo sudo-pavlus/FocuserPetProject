@@ -1,5 +1,8 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
+#include <SFML/Graphics.hpp>
+#include <Windows.h>
+#include <dwmapi.h>
 
 int main()
 {
