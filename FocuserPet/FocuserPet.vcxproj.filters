@@ -45,5 +45,8 @@
     <Image Include="assets\sprites\Test_girl\Idle.png">
       <Filter>assets</Filter>
     </Image>
+    <Image Include="icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>
